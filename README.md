@@ -18,6 +18,9 @@ O app foi desenvolvido com React Native. Esse aplicativo auxilia cidadões em bu
 1. React Native
 2. Expo
 
+## 👨🏼‍💻Responsável pelo projeto
+Renan Bernardes Bonfim *RM: 88087*
+
 ## Instalação
 
 1. Clone o repositório.
